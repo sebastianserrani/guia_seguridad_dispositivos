@@ -45,7 +45,7 @@ Si está presente la opción de encriptar la tarjeta SD (almacenamiento externo)
 ### **Registrar las huellas digitales**
 > ✨ Recomendado para 📱 Celular y Tablet
 
-Si el dispositivo lo soporta, sería conveniente habilitar la lectura de huellas digitales, como método adicional para desbloquear la pantalla. Entrar a *Configuración > Seguridad y ubicación > Huella digital* y agregar, por lo menos, huellas de 2 dedos distintos (por ejemplo, pulgar e índice), prefentemente de ambas manos.
+Si el dispositivo lo soporta, sería conveniente habilitar la lectura de huellas digitales, como método adicional para desbloquear la pantalla. Entrar a *Configuración > Seguridad y ubicación > Huella digital* y agregar, por lo menos, huellas de 2 dedos distintos (por ejemplo, pulgar e índice), preferentemente de ambas manos.
 
 Además, *evaluar* la posibilidad de guardar la huella de alguna persona de mucha confianza, por si es necesario desbloquear el equipo en alguna emergencia.
 
@@ -78,7 +78,7 @@ Si se recupera el equipo, luego de haberlo bloqueado, es posible que la compañ�
 
 Para más info, entrá a [ENACOM](https://www.enacom.gob.ar/), en el menú *Atención a usuarios > Telefonía móvil* y a la izquierda, elegí *Denunciá al \*910*.
 
-También está activo el `*234#` para que los usuarios de *abonos prepagos* puedan [registrar su línea](https://www.enacom.gob.ar/tu-linea-es-tuya_p3874) y validar su identidad como titulares. Este paso es vital para posteriormente solicitar el debloqueo de línea o equipo, si fuese recuperado.
+También está activo el `*234#` para que los usuarios de *abonos prepagos* puedan [registrar su línea](https://www.enacom.gob.ar/tu-linea-es-tuya_p3874) y validar su identidad como titulares. Este paso es vital para posteriormente solicitar el desbloqueo de línea o equipo, si fuese recuperado.
 
 Para denunciar:
 - **Claro**: llamar al `*611`.
@@ -160,7 +160,7 @@ Esta no es, ni por asomo, la mejor forma de *tratar* de ubicar un equipo desapar
 ### **Usar contraseñas seguras**
 > 🔥 Importante! para 📱 Celular, 📱 Tablet, 💻 Notebook y 🖥 PC
 
-A la hora de crear una contraseña (pass*word*), para el propósito que sea, es recomendanble que:
+A la hora de crear una contraseña (pass*word*), para el propósito que sea, es recomendable que:
 - Tenga 16 caracteres como mínimo
 - Incluya números
 - Incluya símbolos (tipo: `! # $ % & ( ) = ? [ ] { } , ; . : - _ ~ * | + < > @`)
@@ -205,7 +205,7 @@ Esto sirve para evitar que alguien más pueda acceder a tu cuenta, incluso en el
 
 La verificación se hace con un código descartable que se genera para cada inicio de sesión. A este código lo podemos obtener a través de una App específica para gestionar 2FA (lo recomendado, ver abajo), una llave de seguridad USB (como las Yubikey), la cuenta de email asociada al servicio, biometría o mensajes SMS (no recomendable!).
 
-Este sistema se debe activar en cada servicio (web o App) que querramos asegurar con 2FA. En líneas generales, debemos ingresar a la configuración de *Seguridad*, buscar la opción de *Verificación en dos pasos* y seguir las instrucciones.
+Este sistema se debe activar en cada servicio (web o App) que queramos asegurar con 2FA. En líneas generales, debemos ingresar a la configuración de *Seguridad*, buscar la opción de *Verificación en dos pasos* y seguir las instrucciones.
 
 Sobre las Apps para gestionar 2FA, esta es mi recomendación:
 - [Microsoft Authenticator](https://www.microsoft.com/es-ar/security/mobile-authenticator-app)
@@ -233,7 +233,7 @@ Un administrador de contraseñas te ayuda a gestionar todas tus contraseñas (o 
 Estas son las características más importantes de los administradores:
 - Principalmente, *rellenan automáticamente formularios de inicio de sesión* y de registro.
 - Funcionan en cualquier página web, programa de computadora o App del celular.
-- Sincronizna las contraseñas entre PCs, notebooks y celulares.
+- Sincroniza las contraseñas entre PCs, notebooks y celulares.
 - No necesitan conexión a Internet continua para funcionar (pueden trabajar offline).
 - En el celular se puede usar, además, la biometría (huellas o cara) para acceder a la bóveda.
 - Pueden generar automáticamente una contraseña segura cuando se registra algún servicio nuevo.
@@ -242,7 +242,7 @@ Estas son las características más importantes de los administradores:
 - Permite compartir contraseñas con miembros de la familia, sin revelarlas.
 - Permite importar o exportar las contraseñas, para archivado o impresión.
 - Puede generar informes de: contraseñas comprometidas, reutilizadas, débiles o filtradas al público.
-- Permite configurar un doble factor de autenticacion (2FA) para las páginas que lo soportan.
+- Permite configurar un doble factor de autenticación (2FA) para las páginas que lo soportan.
 
 Hay dos tipo de gestores: como *servicio*, en los cuales, a nuestros datos los guarda el proveedor de forma segura y me parecen los más amigables; o como *producto*: es sólo un programa que genera una base de datos en nuestro equipo y es nuestra responsabilidad mantenerlo a salvo (de borrado por error, virus, etc.).
 
@@ -250,7 +250,7 @@ La forma más sencilla de iniciarse con este tema, sería usar **[Bitwarden](htt
 
 La otra opción sería usar la app [KeePass DX](https://www.keepassdx.com/) en Android y [KeePassXC](https://keepassxc.org/) en la computadora, si queremos evitar que a nuestros datos los almacene un tercero. El archivo-bóveda que generan estos programas, se puede guardar en una carpeta sincronizada a la nube (DropBox, OneDrive, Nextcloud, etc.), para accederlo desde otros dispositivos.
 
-Cualquiera sea la elección, hay que mantener a salvaguarda la *contraseña maestra* elegida. Escribila en un papel o una libreta y archivala en un lugar seguro!
+Cualquiera sea la elección, hay que mantener a salvaguarda la *contraseña maestra* elegida. Escribirla en un papel o una libreta y archivarla en un lugar seguro!
 
 Llegados a este punto, se pueden empezar a cargar las contraseñas.
 Tener en cuenta que se pueden guardar muchas cosas en el administrador:
@@ -373,7 +373,7 @@ Hay muchas aplicaciones de esta clase, yo recomendaría usar cualquiera de estas
 
 Estas se pueden usar gratis (aunque disponen de planes pagos).
 
-Otra opción es usar [Google Family Link](https://families.google.com/intl/es/familylink), pero me parece más compleja de poner en marcha (entiendiendo que cada dispositivo/niño debe tener su propia cuenta de Google, etc.), pero, igualmente, vale la pena ver.
+Otra opción es usar [Google Family Link](https://families.google.com/intl/es/familylink), pero me parece más compleja de poner en marcha (entendiendo que cada dispositivo/niño debe tener su propia cuenta de Google, etc.), pero, igualmente, vale la pena ver.
 
 ### **Instalar una app de bloqueo de apps**
 > 👍 Opcional para 📱 Celular y Tablet
