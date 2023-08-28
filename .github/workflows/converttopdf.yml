@@ -1,15 +1,12 @@
 name: convert
-
 on:
   push:
-
 jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - name: Build book
         run: |-
           npm install -g md-to-pdf
@@ -20,13 +17,4 @@ jobs:
         with:
           name: output
           path: PDF
-
-      - name: Create a release
-        uses: action-pack/github-release@v2
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag: MyReleaseTag
-          title: MyReleaseTitle
-          body: MyReleaseMessage
           
