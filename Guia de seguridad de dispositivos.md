@@ -137,7 +137,7 @@ La copia de seguridad de los datos y la configuración del teléfono se puede ha
 
 Guarda lo siguiente: contactos, calendario, sms, las redes wi-fi y contraseñas, configuración y datos de las apps, incluso las que no son de Google.
 
-Para habilitarlo, entrar a *Configuración > Sistema > Copia de seguridad*, y activarlo.
+Entrar a *Configuración > Sistema > Copia de seguridad* (o a *Ajustes > Google > Copia de seguridad*) y habilitarla; en esta misma pantalla, más abajo, se muestra el detalle de lo que se va a respaldar; algunos ítems se pueden modificar presionándolos. Luego presionar el botón **Crear copia de seguridad**, para verificar que se inicie la copia sin problemas.
 
 También se pueden hacer copias de seguridad automáticas de las fotos y videos desde Google Fotos; presioná el *menú* (`≡`, en la parte superior) y luego *Ajustes > Copia de seguridad y sincronización*, y activar la opción.
 
