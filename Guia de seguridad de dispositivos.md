@@ -49,6 +49,25 @@ Si el dispositivo lo soporta, sería conveniente habilitar la lectura de huellas
 
 Además, *evaluar* la posibilidad de guardar la huella de alguna persona de mucha confianza, por si es necesario desbloquear el equipo en alguna emergencia.
 
+### **Habilitar la copia de seguridad**
+> ✨ Recomendado para 📱 Celular y Tablet
+
+La copia de seguridad de los datos y parte de la configuración del teléfono se puede hacer a una cuenta de Google, si está configurada (ver en la siguiente sección). Con esto vas a poder restablecer la información en tu teléfono original o en otro teléfono Android, conservando lo siguiente: contactos, calendario, SMS, redes WiFi, configuración y datos de las apps, incluso las que no son de Google.
+
+Para habilitarlo, entrar a *Configuración > Sistema > Copia de seguridad*, y activarlo.
+
+Además, se pueden hacer copias de seguridad automáticas de las fotos y videos desde Google Fotos; presioná el *menú* (`≡`, en la parte superior) y luego *Ajustes > Copia de seguridad y sincronización*, y activar la opción.
+
+Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer respaldos parciales[^1] con éstas Apps:
+- [IDrive Online Backup](https://www.idrive.com/iphone-ipad-android-backup) `Google Play: 4.4⭐, 1 M+`: guarda fotos y videos, contactos, calendarios y SMS; la cuenta gratuita ofrece **10 GB** de almacenamiento.
+- [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive) `Google Play: 4.7⭐, 1000 M+`: guarda imágenes, documentos, videos y cualquier otro tipo de archivo; el plan gratuito incluye **5 GB** de almacenamiento.
+- [Icedrive](https://icedrive.net/apps/mobile-tablet) [[en español 💬](https://icedrive-net.translate.goog/apps/mobile-tablet?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419)] `Google Play: 4.3⭐, 100 k+`: copias de seguridad de fotos, documentos y videos, e instantáneas de todo el dispositivo; la cuenta gratuita ofrece **10 GB** de almacenamiento, pero sin encripción de lado cliente.
+- [Box](https://www.box.com/es-419/resources/downloads) `Google Play: 4.6⭐, 10 M+`: ofrece **10 GB** de almacenamiento gratuito en la nube, controles de seguridad a nivel de archivos y acceso sin conexión.
+- [MEGA](https://mega.io/es/mobile) `Google Play: 4.5⭐, 100 M+`: backup automático de fotos y vídeos (no tiene sincronización de otros archivos), acceso sin conexión, permite usar contraseña y biometría; almacenamiento gratuito de **20 GB**.
+- [Dropbox](https://www.dropbox.com/mobile) `Google Play: 4.6⭐, 1000 M+`: copia de seguridad y sincronización de imágenes, videos, documentos y otros archivos; la cuenta gratuita ofrece sólo **2 GB**.
+
+[^1]: algunas Apps, sólo sincronizan o respaldan fotos y videos de la cámara; otras permiten el respaldo manual de algunas carpetas y archivos.
+
 ### **Ocultar el contenido de las notificaciones**
 > ✨ Recomendado para 📱 Celular y Tablet
 
@@ -129,19 +148,6 @@ Luego, entrar a [https://www.google.com/android/find](https://www.google.com/and
 Google Play Protect verifica la seguridad de las apps de Google Play Store antes de descargarlas y analiza la actividad del dispositivo para detectar apps potencialmente dañinas.
 
 Para activarlo, abrir la Play Store, presioná el *menú* (`≡`, arriba a la izquierda) y luego, pulsar sobre *Play Protect*. Si no esta activo, te va a mostrar un botón para activarlo.
-
-### **Habilitar la copia de seguridad automática de los datos**
-> ✨ Recomendado para 📱 Celular y Tablet
-
-La copia de seguridad de los datos y la configuración del teléfono se puede hacer en tu cuenta de Google. Con esto vas a poder restablecer toda tu información en tu teléfono original o en otro teléfono Android.
-
-Guarda lo siguiente: contactos, calendario, sms, las redes wi-fi y contraseñas, configuración y datos de las apps, incluso las que no son de Google.
-
-Entrar a *Configuración > Sistema > Copia de seguridad* (o a *Ajustes > Google > Copia de seguridad*) y habilitarla; en esta misma pantalla, más abajo, se muestra el detalle de lo que se va a respaldar; algunos ítems se pueden modificar presionándolos. Luego presionar el botón **Crear copia de seguridad**, para verificar que se inicie la copia sin problemas.
-
-También se pueden hacer copias de seguridad automáticas de las fotos y videos desde Google Fotos; presioná el *menú* (`≡`, en la parte superior) y luego *Ajustes > Copia de seguridad y sincronización*, y activar la opción.
-
-Nota: activar sincronización en Google Fotos, también la activa para Google Drive.
 
 ### **Activar el historial de ubicaciones de Google Maps**
 > 👍 Opcional para 📱 Celular y Tablet
