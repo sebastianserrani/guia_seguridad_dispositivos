@@ -70,8 +70,17 @@ Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer
 - [MEGA](https://mega.io/es/mobile) `Google Play: 4.5⭐, 100 M+`: backup automático de fotos y vídeos (no tiene sincronización de otros archivos), acceso sin conexión, permite usar contraseña y biometría; almacenamiento gratuito de **20 GB**.
 - [Dropbox](https://www.dropbox.com/mobile) `Google Play: 4.6⭐, 1000 M+`: copia de seguridad y sincronización de imágenes, videos, documentos y otros archivos; la cuenta gratuita ofrece sólo **2 GB**.
 
+Y para los más intrépidos, también es posible **sincronizar los dispositivos directamente con una PC**, evitando servicios de terceros, con [Syncthing](https://syncthing.net) [[en español 💬](https://syncthing-net.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)] o [Resilio Sync](https://www.resilio.com/individuals/) [[en español 💬](https://www-resilio-com.translate.goog/individuals/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)]. Lamentablemente, las páginas web de estas herramientas están en inglés y son de lo menos amigable que hay, así que recomiendo ver alguno de estos artículos[^3][^4][^5][^6][^7] y videos[^8][^9].
+
 [^1]: Alternativamente, abrir la App de Google Fotos, tocar en el ícono de *perfil* (`Perfil 👤`, arriba a la derecha), luego ir a *Configuración de Fotos > Copia de seguridad* y activarla.
 [^2]: Algunas Apps, sólo sincronizan o respaldan fotos y videos de la cámara; otras permiten el respaldo manual de algunas carpetas y archivos.
+[^3]:[Syncthing, o cómo tener tu propio servicio de sincronización de archivos tipo Dropbox](https://www.lanacion.com.ar/tecnologia/syncthing-o-como-tener-tu-propio-servicio-de-sincronizacion-de-archivos-tipo-dropbox-nid27122022/)
+[^4]:[Instalar Syncthing en Android y sincronizar archivos en tu red](http://somebooks.es/instalar-syncthing-en-android-para-sincronizar-archivos-en-tu-red/)
+[^5]:[Gratis y sólo con una app: así he creado una nube personal que se sincroniza de forma automática, incluso desde un móvil Android](https://www.xatakahome.com/la-red-local/gratis-solo-app-asi-he-creado-nube-personal-que-se-sincroniza-forma-automatica-incluso-movil-android)
+[^6]:[Resilio Sync: Cómo transferir archivos desde Android a tu PC](https://www.neoteo.com/como-transferir-archivos-desde-android-a-tu-pc/)
+[^7]:[Syncing between a desktop computer and a mobile device](https://help.resilio.com/hc/en-us/articles/205451165-Syncing-between-a-desktop-computer-and-a-mobile-device)
+[^8]:[Cómo Sincronizar archivos en Android y PC. Fácil y Gratis](https://www.youtube.com/watch?v=lkj_73FYLZM)
+[^9]:[RESILIO SYNC Sincronizar FOTOS MÓVIL con PC y más](https://www.youtube.com/watch?v=Mh0oI50qKeo)
 
 ### **Ocultar el contenido de las notificaciones**
 > ✨ Recomendado para 📱 Celular y Tablet
