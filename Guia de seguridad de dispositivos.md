@@ -52,13 +52,17 @@ Además, *evaluar* la posibilidad de guardar la huella de alguna persona de much
 ### **Habilitar la copia de seguridad**
 > ✨ Recomendado para 📱 Celular y Tablet
 
-La copia de seguridad de los datos y parte de la configuración del teléfono se puede hacer a una cuenta de Google, si está configurada (ver en la siguiente sección). Con esto vas a poder restablecer la información en tu teléfono original o en otro teléfono Android, conservando lo siguiente: contactos, calendario, SMS, redes WiFi, configuración y datos de las apps, incluso las que no son de Google.
+La copia de seguridad de los datos y la configuración del teléfono se puede hacer a una cuenta de Google, si está configurada (ver en la siguiente sección). Con esto vas a poder restablecer la información en tu teléfono original o en otro teléfono Android, conservando lo siguiente: contactos, calendario, SMS, redes WiFi, configuración y datos de las apps, incluso las que no son de Google.
 
-Para habilitarlo, entrar a *Configuración > Sistema > Copia de seguridad*, y activarlo.
+Entrar a *Configuración > Sistema > Copia de seguridad*, y tocar el interruptor 🔛 para activarla. Inmediatamente después, verificar más abajo, en *Detalles de la copia de seguridad*, los ítems que se van a incluir:
+- Apps: ✔
+- Fotos y videos: si dice *Desactivado*, tocar esa opción (se abre la configuración de Google Fotos) y tocar el interruptor 🔛 de *Crear una copia de seguridad* para activarlo[^1]
+- SMS y mensajes MMS: ✔
+- Historial de llamadas: ✔
+- Configuración del dispositivo: ✔
+- Datos de la cuenta de Google: tocar el interruptor 🔛 para servicio que se quiera respaldar
 
-Además, se pueden hacer copias de seguridad automáticas de las fotos y videos desde Google Fotos; presioná el *menú* (`≡`, en la parte superior) y luego *Ajustes > Copia de seguridad y sincronización*, y activar la opción.
-
-Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer respaldos parciales[^1] con éstas Apps:
+Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer respaldos parciales[^2] con éstas Apps:
 - [IDrive Online Backup](https://www.idrive.com/iphone-ipad-android-backup) `Google Play: 4.4⭐, 1 M+`: guarda fotos y videos, contactos, calendarios y SMS; la cuenta gratuita ofrece **10 GB** de almacenamiento.
 - [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive) `Google Play: 4.7⭐, 1000 M+`: guarda imágenes, documentos, videos y cualquier otro tipo de archivo; el plan gratuito incluye **5 GB** de almacenamiento.
 - [Icedrive](https://icedrive.net/apps/mobile-tablet) [[en español 💬](https://icedrive-net.translate.goog/apps/mobile-tablet?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419)] `Google Play: 4.3⭐, 100 k+`: copias de seguridad de fotos, documentos y videos, e instantáneas de todo el dispositivo; la cuenta gratuita ofrece **10 GB** de almacenamiento, pero sin encripción de lado cliente.
@@ -66,7 +70,8 @@ Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer
 - [MEGA](https://mega.io/es/mobile) `Google Play: 4.5⭐, 100 M+`: backup automático de fotos y vídeos (no tiene sincronización de otros archivos), acceso sin conexión, permite usar contraseña y biometría; almacenamiento gratuito de **20 GB**.
 - [Dropbox](https://www.dropbox.com/mobile) `Google Play: 4.6⭐, 1000 M+`: copia de seguridad y sincronización de imágenes, videos, documentos y otros archivos; la cuenta gratuita ofrece sólo **2 GB**.
 
-[^1]: algunas Apps, sólo sincronizan o respaldan fotos y videos de la cámara; otras permiten el respaldo manual de algunas carpetas y archivos.
+[^1]: Alternativamente, abrir la App de Google Fotos, tocar en el ícono de *perfil* (`Perfil 👤`, arriba a la derecha), luego ir a *Configuración de Fotos > Copia de seguridad* y activarla.
+[^2]: Algunas Apps, sólo sincronizan o respaldan fotos y videos de la cámara; otras permiten el respaldo manual de algunas carpetas y archivos.
 
 ### **Ocultar el contenido de las notificaciones**
 > ✨ Recomendado para 📱 Celular y Tablet
@@ -157,6 +162,15 @@ Activar el historial de ubicaciones de Google Maps permite que se puedan ver las
 Entrar a *Configuración > Seguridad y ubicación > Ubicación > Historial de ubicaciones* (o a *Ajustes > Privacidad > Ubicación > Historial de ubicaciones*) y activarlo. Luego, ir a [https://www.google.com/maps/timeline](https://www.google.com/maps/timeline) para comprobar si hay datos. Puede demorar hasta 20 minutos en aparecer información nueva.
 
 Esta no es, ni por asomo, la mejor forma de *tratar* de ubicar un equipo desaparecido, y probablemente no arroje los resultados que uno desearía. En lo posible, **no activarlo**.
+
+### **Evitar usar la liberación de espacio**
+> 👍 Opcional para 📱 Celular y Tablet
+
+*Google Fotos* tiene una función de [liberar espacio](https://support.google.com/photos/answer/6128843?hl=es-419): cuando se haya hecho, por lo menos, un respaldo de las fotos y videos a la cuenta de Google, es posible habilitar esta función que **borra fotos del dispositivo**; esta no es una función automática, debe hacerse manualmente.
+Esto puede ser útil en equipos (viejos o) con muy poco espacio de almacenamiento, pero luego las fotos sólo son accesibles mientras haya conexión, este instalada la App de Google Fotos e iniciada la sesión en Google; creo que es preferible descargarlas a una PC.
+
+Además, en algunos equipos con Android (dependiendo del fabricante), está disponible el *Administrador de almacenamiento* (en *Configuración > Almacenamiento*) que, una vez activado, permite **quitar fotos y videos** que tengan una copia de seguridad en Google Fotos, automáticamente.
+De nuevo, creo que es preferible descargarlas a una PC.
 
 ---
 
