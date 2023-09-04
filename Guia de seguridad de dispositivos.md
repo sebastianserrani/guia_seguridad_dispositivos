@@ -1,6 +1,4 @@
-# **GUÍA DE SEGURIDAD DE DISPOSITIVOS ELECTRÓNICOS**
-
----
+# **GUÍA DE SEGURIDAD DE DISPOSITIVOS**
 
 ## BÁSICOS
 *Configuraciones básicas para tener el dispositivo mínimamente asegurado...*
