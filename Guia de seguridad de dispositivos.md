@@ -64,6 +64,18 @@ Entrar a *Configuración > Sistema > Copia de seguridad*, y tocar el interruptor
 - Configuración del dispositivo: ✔
 - Datos de la cuenta de Google: tocar el interruptor 🔛 para seleccionar el servicio que se quiera respaldar
 
+También se puede usar, adicional o alternativamente, la solución de sincronización y backup del fabricante del equipo, por ejemplo:
+- Samsung:
+  - Instalar [Smart Switch](https://www.samsung.com/es/support/switching/)
+  - [Cómo hacer y restaurar copias de seguridad de tu Galaxy](https://www.samsung.com/es/support/mobile-devices/como-transferir-datos-de-un-dispositivo-antiguo-a-uno-nuevo/) [[en video 📺](https://www.youtube.com/watch?v=3D0Kitp8dGs)] en la PC y en el móvil
+- Motorola:
+  - Instalar [Asistente de Ready For](https://apps.microsoft.com/detail/XP8JRF5SXV03ZM) en la PC
+  - [Sincroniza el teléfono con la computadora](https://help.motorola.com/hc/apps/readyfor/rf50/es-us/index.html?t=CG1832532275)
+- LG:
+  - Instalar [LG Bridge](https://www.lg.com/ar/soporte/ayuda-producto/CT20084034-20150647117340) en la PC
+  - [Hacer la copia de seguridad](https://www.lg.com/us/support/help-library/lg-bridge-download-how-to-use-CT10000026-1438110404543) [[en español 💬](https://www-lg-com.translate.goog/us/support/help-library/lg-bridge-download-how-to-use-CT10000026-1438110404543?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419)]
+ 
+
 Por otro lado, si no queremos o no tenemos una cuenta de Google, se pueden hacer respaldos parciales[^2] con éstas Apps:
 - [IDrive Online Backup](https://www.idrive.com/iphone-ipad-android-backup) `Google Play: 4.4⭐, 1 M+`: guarda fotos y videos, contactos, calendarios y SMS; la cuenta gratuita ofrece **10 GB** de almacenamiento.
 - [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive) `Google Play: 4.7⭐, 1000 M+`: guarda imágenes, documentos, videos y cualquier otro tipo de archivo; el plan gratuito incluye **5 GB** de almacenamiento.
