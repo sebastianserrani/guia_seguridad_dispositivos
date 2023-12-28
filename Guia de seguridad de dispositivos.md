@@ -270,7 +270,15 @@ Sobre las Apps para gestionar 2FA, esta es mi recomendación:
 - [Bitwarden Authenticator](https://bitwarden-com.translate.goog/help/authenticator-keys/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419) (si se usa, también, como administrador de contraseñas)
 
 Algunas guías específicas sobre este tema:
-- WhatsApp: [Información acerca de la verificación en dos pasos](https://faq.whatsapp.com/1278661612895630)
+- WhatsApp:
+  - [Activar la verificación en dos pasos](https://faq.whatsapp.com/1920866721452534):  
+    1. En WhatsApp, abre *Ajustes o Configuración*.
+    2. Toca *Cuenta > Verificación en dos pasos > Activar*.
+    3. Ingresa un **PIN de seis dígitos** y confírmalo.
+    4. Proporciona una **dirección de correo electrónico** a la que tengas acceso (permite restablecer la verificación).
+    5. Toca *Siguiente*.
+    6. Confirma la dirección de correo electrónico y toca *Guardar u OK*.
+  - Más [información acerca de la verificación en dos pasos](https://faq.whatsapp.com/1278661612895630)
 - Google: [Activar la verificación en dos pasos](https://support.google.com/accounts/answer/185839?hl=es)
 - Microsoft: [Cómo utilizar la verificación en dos pasos con su cuenta de Microsoft](https://support.microsoft.com/es-es/account-billing/c%C3%B3mo-utilizar-la-verificaci%C3%B3n-en-dos-pasos-con-su-cuenta-de-microsoft-c7910146-672f-01e9-50a0-93b4585e7eb4)
 - Samsung: [¿Qué es la verificación en dos pasos?](https://www.samsung.com/ar/support/apps-services/what-is-two-step-verification/)
